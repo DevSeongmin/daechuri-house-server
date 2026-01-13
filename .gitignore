@@ -36,6 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 
-/main/resources/docker-compose.yml
+/docker-compose.yml
 /src/main/resources/application-dev.yml
 /src/main/resources/application-prod.yml
